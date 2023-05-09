@@ -31,4 +31,7 @@ module.exports = {
       "^@/(.+)": "<rootDir>/src/$1",
     },
   },
+  eslint: {
+    enable: false
+  },
 };
